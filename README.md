@@ -19,6 +19,12 @@ The models compared are:
 
 ---
 
+## How to run the notebook 
+
+Recommend to create a venv and then nstalling the dependencies mentioned in requirements.txt and then you can choose that venv as your kernel. Before running the notebook, please download your dataset and add its path to cell 2 `path_to_dataset_csv`
+
+You can also run the notebook on Google Colab.
+
 ## Methods  
 
 ### Preprocessing  

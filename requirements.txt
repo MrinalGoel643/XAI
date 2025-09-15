@@ -1,5 +1,8 @@
-numpy
 pandas
+numpy
 scikit-learn
+statsmodels
 matplotlib
 seaborn
+pygam
+scipy
